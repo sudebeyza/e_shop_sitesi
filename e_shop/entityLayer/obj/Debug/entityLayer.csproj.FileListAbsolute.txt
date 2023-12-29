@@ -1,0 +1,12 @@
+C:\Users\sudeb\source\repos\e_shop\entityLayer\bin\Debug\entityLayer.dll.config
+C:\Users\sudeb\source\repos\e_shop\entityLayer\bin\Debug\entityLayer.dll
+C:\Users\sudeb\source\repos\e_shop\entityLayer\bin\Debug\entityLayer.pdb
+C:\Users\sudeb\source\repos\e_shop\entityLayer\bin\Debug\EntityFramework.dll
+C:\Users\sudeb\source\repos\e_shop\entityLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sudeb\source\repos\e_shop\entityLayer\bin\Debug\EntityFramework.xml
+C:\Users\sudeb\source\repos\e_shop\entityLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sudeb\source\repos\e_shop\entityLayer\obj\Debug\entityLayer.csproj.AssemblyReference.cache
+C:\Users\sudeb\source\repos\e_shop\entityLayer\obj\Debug\entityLayer.csproj.CoreCompileInputs.cache
+C:\Users\sudeb\source\repos\e_shop\entityLayer\obj\Debug\entityLayer.csproj.CopyComplete
+C:\Users\sudeb\source\repos\e_shop\entityLayer\obj\Debug\entityLayer.dll
+C:\Users\sudeb\source\repos\e_shop\entityLayer\obj\Debug\entityLayer.pdb

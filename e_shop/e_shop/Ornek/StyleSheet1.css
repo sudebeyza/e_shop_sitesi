@@ -1,0 +1,62 @@
+﻿/* Genel buton stil */
+.button {
+    display: inline-block; /* İnline blok eleman olarak görüntüle */
+    padding: 15px 25px; /* İç içe geçmiş iç ve dış dolgular */
+    font-size: 24px; /* Yazı tipi boyutu */
+    cursor: pointer; /* Fare üzerine geldiğinde imleç tipi */
+    text-align: center; /* Metni ortala */
+    text-decoration: none; /* Metin altı çizgisini kaldır */
+    outline: none; /* Kontur çizgisini kaldır */
+    color: #fff; /* Metin rengi */
+    background-color: #04AA6D; /* Arka plan rengi */
+    border: none; /* Kenarlık yok */
+    border-radius: 15px; /* Kenar yumuşatma */
+    box-shadow: 0 9px #999; /* Kutu gölgesi efekti */
+}
+
+    /* Butonun üzerine gelindiğinde stil değişikliği */
+    .button:hover {
+        background-color: #3e8e41;
+    }
+
+    /* Butona tıklandığında stil değişikliği */
+    .button:active {
+        background-color: #3e8e41;
+        box-shadow: 0 5px #666;
+        transform: translateY(4px);
+    }
+
+/* Form grupları arasındaki boşluğu ayarla */
+.form-group {
+    margin-bottom: 15px;
+}
+
+/* Etiket stilini ayarla */
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+/* Dosya seçme alanı stilini ayarla */
+input[type="file"] {
+    border: 1px solid #ccc;
+    padding: 20px;
+    display: block;
+    box-sizing: border-box;
+    /* Dosya seçme butonuna özel stil */
+    input [type="file"]::-webkit-file-upload-button
+
+{
+    background-color: #04AA6D; /* Arka plan rengi */
+    color: #fff; /* Metin rengi */
+    padding: 8px 15px; /* İç içe geçmiş alan içinde bir iç boşluk */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Dosya seçme butonuna üzerine gelindiğinde stil değişikliği */
+input[type="file"]::-webkit-file-upload-button:hover {
+    background-color: #3e8e41;
+}
+}
